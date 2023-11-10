@@ -1,10 +1,12 @@
 /* Give your page a fun background color */
 .container {
     background-color:deepskyblue;
+    text-align: center;
 }
 /* Make the header and footer a different color from the background */
 header, footer {
     background-color: darkslateblue;
+    padding: 5px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -14,6 +16,7 @@ h1 {
 p {
     font-style: italic;
     color: white ;
+    font-size: 18px;
 }
 /* Put a border around your image */
 img {
@@ -22,4 +25,10 @@ img {
 /* Change the font-family of your list */
 ul {
     font-family: monospace;
+    list-style: none;
+    font-size: 20px;
+}
+header {
+    color: white;
+    margin-bottom: 20px;
 }
