@@ -22,7 +22,7 @@
     git version 2.42.0
 
 # 8 - Why would you run the command 'git status'?
-    you would run the 'git status' command when you would like so see what changes you have made to your code since your last commit 
+    you would run the 'git status' command when you would like so see what changes you have made to your code since your last commit that have not been staged
 
 # 9 - What does the command 'git add .' do?
     this command puts all the edits made to the current file in a staging area, waiting to be commited and then eventually pushed to GitHub.
